@@ -1,4 +1,4 @@
-package brave.schedule;
+package com.alongwang.brave.schedule;
 
 import brave.Span;
 import brave.Tracer;

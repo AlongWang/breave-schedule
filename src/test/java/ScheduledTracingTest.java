@@ -6,7 +6,7 @@ import brave.propagation.CurrentTraceContext;
 import brave.propagation.Propagation;
 import brave.propagation.ThreadLocalCurrentTraceContext;
 import brave.sampler.Sampler;
-import brave.schedule.ScheduledTracingThreadPoolExecutor;
+import com.alongwang.brave.schedule.ScheduledTracingThreadPoolExecutor;
 import org.slf4j.MDC;
 
 import java.util.concurrent.TimeUnit;
